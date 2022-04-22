@@ -26,7 +26,8 @@ module.exports = {
       chainId: 1337,
     },
     ropsten: {
-      url: "https://ropsten.infura.io/v3/7f635960485d446a97808c59524460b9",
-      accounts: [
+      url: "https://ropsten.infura.io/v3/YOUR_PROJECT_ID",
+
     }
-  };
+  }
+}
